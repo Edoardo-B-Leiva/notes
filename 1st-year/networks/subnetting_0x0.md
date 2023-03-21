@@ -1,20 +1,18 @@
 # Subnetting: 0x0
----
+
 ## IP addresses
 
 * IPv4
 
-32 bits
-4 octets \* 8 bits (from 0 to 255)
-
-Total of possible IPv4 addresses: 4.294.967.296 (2^32)
+	* 32 bits
+	* 4 octets \* 8 bits (from 0 to 255)
+	* Total of possible IPv4 addresses: 4.294.967.296 (2^32)
 
 * IPv6
 
-128 bits
-8 hextets \* 16 bits (from 0 65535)
-
-Total of possible IPv6 addresses: 3.40282366921e+38 (2^128)
+	* Composed by 128 bits
+	* Divided by 8 hextets with 16 bits each (from 0 65535)
+	* Total of possible IPv6 addresses: 3.40282366921e+38 (2^128)
 
 ---
 ## IP Classes
