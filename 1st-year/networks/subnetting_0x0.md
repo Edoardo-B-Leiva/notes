@@ -17,7 +17,7 @@ Total of possible IPv4 addresses: 4.294.967.296 (2^32)
 Total of possible IPv6 addresses: 3.40282366921e+38 (2^128)
 
 ---
-##IP Classes
+## IP Classes
 
 >IPv4 Classes are a deprecated concept and are used as a generalization for Subnet masks
 
@@ -40,17 +40,22 @@ There are a total of 5 possible classes, identifiable by a letter ranging from A
 	* 3 octets (24 bits) define the network and only 8 define the host.
 	* ```11000000.00000000.00000000|00000000```
 	* Leading bits: 1100...
-4. D 
+4. D
 	* 
 	* Leading bits: 1110...
 5. E
 	*
 	* Leading bits: 1111...
 
-Classes can be identified by the "leading bits"
+Classes can be identified by the "leading bits" when reading the IP in binary format.
 
 ---
-##Subnet Masks
+## Subnet Masks
+
+Subnet masks make the definition between host and network identifiers much more precise, which allows to create networks specifically made for ***anyone's*** needs.
+
+## NAT
+
+NAT is the base for local networks (LAN) as how we know it.
 
 
-##NAT
