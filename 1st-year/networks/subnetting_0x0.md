@@ -38,11 +38,12 @@ There are a total of 5 possible classes, identifiable by a letter ranging from A
 	* 3 octets (24 bits) define the network and only 8 define the host.
 	* ```11000000.00000000.00000000|00000000```
 	* Leading bits: 1100...
-4. D
-	* 
+4. D - Multicast ID
+	* These IP addresses have not a host identifier part
+	* Ranges from 224.0.0.0 to 239.255.255.255 
 	* Leading bits: 1110...
 5. E
-	*
+	* Ranges from 240.0.0.0 to 255.255.255.255
 	* Leading bits: 1111...
 
 Classes can be identified by the "leading bits" when reading the IP in binary format.
