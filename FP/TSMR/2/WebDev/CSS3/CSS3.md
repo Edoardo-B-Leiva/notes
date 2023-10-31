@@ -9,13 +9,14 @@ The html5 components are composed of 4 main sub-components:
 ## - Margin
   The margin is the space used to separate the Border (see below) to everything else in the page.
   It is defined in CSS using the border group of properties.
-  ```css
+```css
 p{
-  margin: <size/size-top/size-vertical>, <size-horizontal/size...>;
-  margin-top: <size>;
-  margin-bottom: <size>;
-  margin-left: <size>;
-  margin-right: <size>; 
+  margin: <size/size-top/size-vertical> <size-horizontal/size-right> <size-bottom> <size-left>;
+  margin-top: <size-top>;
+  margin-bottom: <size-bottom>;
+  margin-left: <size-left>;
+  margin-right: <size-right>; 
 }
 ```
+
 ## - Border
