@@ -69,7 +69,7 @@ There are multiple ways to identify specific parts of a webpage:
 ### IDs
 
 ---
-## HTML content structure
+## [CSS Box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 The HTML5 components are composed of 4 "main subcomponents":
 ### Content
 It's the content written in the HTML file, no further explanation should be needed.
