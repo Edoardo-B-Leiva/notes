@@ -27,7 +27,4 @@ Author: [Edoardo Borgia Leiva](https://edoardo-b-leiva.github.io)
 - **_Paddings_**: Space between the element's content and it's border.
   - **padding**:
     - **-top | -bottom | -left | -right**: Define the spacing of the correspondent side.
-## Flex
-## Flexbox
-## Grid
-  
+## Flex, Flexbox & Grid
