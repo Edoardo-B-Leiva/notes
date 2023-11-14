@@ -105,3 +105,12 @@ p{
     border-style: [none, solid, dashed, dotted, etc.];
 }
 ```
+## Content modifiers
+### Color
+### Size
+## Fonts
+### Font family
+### Font size
+### Font style
+## Decorations
+### Text decorations
