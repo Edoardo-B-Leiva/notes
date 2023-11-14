@@ -14,6 +14,13 @@ Author: [Edoardo Borgia Leiva](https://edoardo-b-leiva.github.io)
   - percentage: `69%`
   - em: `404em`
   - rem: `420rem`
+## Positions
+- **position: <static/absolute/relative>**: Defines the way other position-related attributes work:
+  - **: static**: Position-related attributes will be ignored and position will be default.
+  - **: absolute**: Position is based off its father element size.
+  - **: relative**: Position attributes are based off other elements.
+- **top: <size>**: Distance from top of father element.
+- **left: <size>**: Distance from left wall of father element.
 ## Element spacings
 - **_Margins_**: Space between element's border and other element's own margin.
   - **margin**: defines margin spacing; one, two, and four values are supported.
@@ -28,3 +35,6 @@ Author: [Edoardo Borgia Leiva](https://edoardo-b-leiva.github.io)
   - **padding**:
     - **-top | -bottom | -left | -right**: Define the spacing of the correspondent side.
 ## Flex, Flexbox & Grid
+## ULs, ILs & LIs
+### UL: Unordered lists
+- **list-style-type: <disc/cirle/square/decimal/cjk-decimal/decimal-leading-zero/lower-roman/upper-roman/lower-greek/...>**: Styling for the bullet points.
