@@ -105,3 +105,14 @@ p{
     border-style: [none, solid, dashed, dotted, etc.];
 }
 ```
+## [ULs](), [OLs]() & [LIs]()
+### [List styles]()
+It's possible to freely customize Bullet Lists using these CSS properties.
+```css
+p{
+    list-style: <none/>;
+    list-style-type: ;
+    list-style-position: <inside/outside>;
+    list-style-image: url("<src>");
+}
+```
