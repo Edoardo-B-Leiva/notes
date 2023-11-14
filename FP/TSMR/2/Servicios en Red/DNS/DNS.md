@@ -24,9 +24,21 @@ TLDs cannot be owned by End-Users, only authorized entities.
 example.com: could be owned by me.
 ```
 TLDs can be categorized by their meaning:
-- **gTLD**: General purpose (anyone can own them): `.com, .net`
-- **ccTLD**: Country Code TLDs: `.it, .es, .jp, .us, .uk, .ca, etc.`
-### IDN
+#### **gTLD**
+gTLD (global Top Level Domain) are a type of TLD that can be obtained with little to no restriction.
+***Example:*** `.com, .net, .info`
+Some TLDs can be obtained only by complying with some restrictions
+***Example:*** `.edu, .biz, .name, .pro, .gov`
+#### **sTLD**
+(sponsored Top Level Domain)
+***Examples:*** `.coop, .aero, .museum, .travel`
+#### **ccTLD**
+ccTLD (country code TLD)
+Can be obtained and given from the national institute responsible for its management.
+***Examples:*** `.it, .es, .jp, .us, .uk, .ca, .cu, .en`
+### **lTLD**
+language TLDs: 
+### **IDN**
 Some institutions and governments serve Domains ending with a second level domain name, giving third level domains
 
 **_Examples:_**
@@ -42,6 +54,16 @@ Hostname: iac.cc;
 Domain Name: upv.es;
 FQDN: iac.cc.upv.es;
 ```
+## Server types
+Server types can be divided by what they do internally to serve queries.
+### Primary (master)
+It's the **"source of truth"** and it's where the **_Domain Names are hosted_ and can be modified, added, removed, etc.**
+### Secondary (slave)
+This type of DNS server is dependent on the Primary DNS server, and cannot work by themselves and need Primary servers to work in any way.
+Secondary DNS servers ask the Primary server for a read-only copy every x time called TTL (x being usually decided by the administrators).
+This type is often used as a redundant server and as a middle-man to reduce latency between the server and the client.
+### Cache (hint)
+### Forwarder
 ## Register types
 A DNS Server provides a different response depending on the type of register it has saved.
 The most commonly known are:
@@ -54,8 +76,8 @@ The most commonly known are:
   - Priority
   - etc.
 - **MX**: Mail Exchange, used to point to an SMTP Server.
-
-# DNS Servers
+More register types are uncovered in the e-mail service unit, where they will be seen more in depth.
+# DNS Server software
 ## BIND 9
 ### Introduction
 BIND 9 is a DNS Server software made by the BSD (Berkeley University Software Distribution).
@@ -64,9 +86,14 @@ Installable in both Linux, BSDs and Windows Server.
 Its configuration files are located in: `/etc/bind/named.conf`  
 On MS Windows it's located in: `C:\Windows\system32\dns\etc\named.conf`
 
+### Zones
+To 
+
 ### Global configuration file
 - `allow-query { xxx.xxx.xxx.xx ; any; none; } ;` 
 - `allow-transfer { xxx.xxx.xxx.xxx; none; any ; } ;`
 - `zone "zone_name" { options...; } ;`
   - `type <type>;`
   - `file </path/to/db.domain.com>;`
+## Windows Server default DNS server
+**No. >:(**
