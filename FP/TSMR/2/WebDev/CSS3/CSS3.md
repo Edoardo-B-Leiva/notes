@@ -131,3 +131,12 @@ How these possible properties work is not as straight forward as the already cov
 - **fixed**: Position is based off the browser viewport.
 - **relative**: Position is based from other elements.
 ### Top, Left, Right & Bottom
+## Content modifiers
+### Color
+### Size
+## Fonts
+### Font family
+### Font size
+### Font style
+## Decorations
+### Text decorations
