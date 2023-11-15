@@ -15,10 +15,12 @@ Author: [Edoardo Borgia Leiva](https://edoardo-b-leiva.github.io)
   - em: `404em`
   - rem: `420rem`
 ## Positions
-- **position: <static/absolute/relative>**: Defines the way other position-related attributes work:
+- **position: <static/absolute/relative/fixed/float>**: Defines the way other position-related attributes work:
   - **: static**: Position-related attributes will be ignored and position will be default.
   - **: absolute**: Position is based off its father element size.
   - **: relative**: Position attributes are based off other elements.
+  - **: fixed**: Position will reference viewport instead of HTML Document structure.
+  - **: float**: 
 - **top: <size>**: Distance from top of father element.
 - **left: <size>**: Distance from left wall of father element.
 ## Element spacings

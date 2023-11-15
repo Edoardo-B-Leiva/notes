@@ -66,8 +66,9 @@ p{
 ## HTML/CSS Identifiers
 There are multiple ways to identify specific parts of a webpage:
 ### Classes
+Classes are used to apply CSS properties to some elements that can be different types.
 ### IDs
-
+Used to apply properties to a specific element of any type.
 ---
 ## [CSS Box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 The HTML5 components are composed of 4 "main subcomponents":
@@ -116,3 +117,17 @@ p{
     list-style-image: url("<src>");
 }
 ```
+## Positioning
+The elements of an HTML document don't necesarily have to stick to the default position, this leads to having more flexibility when making a design.
+### Position
+This element describes how other position related attributes will behave.
+```css
+p{
+    position: <absolute/fixed/relative/float/inherit/>;
+}
+```
+How these possible properties work is not as straight forward as the already covered ones.
+- **absolute**: Position is directly based off the 0 coordinates of the father element.
+- **fixed**: Position is based off the browser viewport.
+- **relative**: Position is based from other elements.
+### Top, Left, Right & Bottom
