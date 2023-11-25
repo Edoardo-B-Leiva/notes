@@ -21,6 +21,6 @@ The file structure is made up by:
                         |_File.md
 ```
 ---
-The license for this repo is the CC-BY-AS-4.0, described in the LICENSE.md file at the root of this repo.
+The license for this repo is the CC-BY-AS-4.0, described in the [LICENSE.md](LICENSE.md) file at the root of this repo.
 ___
 Any ongoing annotation-taking will have it's own branch until it's finished, in that case, the branch will be pulled to the main branch.
