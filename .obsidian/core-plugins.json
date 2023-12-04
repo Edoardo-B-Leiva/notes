@@ -7,6 +7,10 @@
   "canvas",
   "outgoing-link",
   "tag-pane",
+<<<<<<< HEAD
+=======
+  "properties",
+>>>>>>> 399f323f41ec26d14e82e01e6aea7a83e298ef01
   "page-preview",
   "daily-notes",
   "templates",
@@ -14,6 +18,10 @@
   "command-palette",
   "editor-status",
   "bookmarks",
+<<<<<<< HEAD
+=======
+  "markdown-importer",
+>>>>>>> 399f323f41ec26d14e82e01e6aea7a83e298ef01
   "outline",
   "word-count",
   "workspaces",

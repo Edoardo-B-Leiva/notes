@@ -7,7 +7,11 @@
   "canvas": true,
   "outgoing-link": true,
   "tag-pane": true,
+<<<<<<< HEAD
   "properties": false,
+=======
+  "properties": true,
+>>>>>>> 399f323f41ec26d14e82e01e6aea7a83e298ef01
   "page-preview": true,
   "daily-notes": true,
   "templates": true,
@@ -16,7 +20,11 @@
   "slash-command": false,
   "editor-status": true,
   "bookmarks": true,
+<<<<<<< HEAD
   "markdown-importer": false,
+=======
+  "markdown-importer": true,
+>>>>>>> 399f323f41ec26d14e82e01e6aea7a83e298ef01
   "zk-prefixer": false,
   "random-note": false,
   "outline": true,

@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "c6a44e7a6593533a",
     "type": "split",
     "children": [
@@ -17,11 +18,27 @@
                 "mode": "source",
                 "source": false
               }
+=======
+    "id": "fd2ee32b6c7ada87",
+    "type": "split",
+    "children": [
+      {
+        "id": "777b1573edc57ca5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d83862be6b836ed8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+>>>>>>> 399f323f41ec26d14e82e01e6aea7a83e298ef01
             }
           }
         ]
       },
       {
+<<<<<<< HEAD
         "id": "1606ab7893a6e51c",
         "type": "tabs",
         "children": [
@@ -31,6 +48,21 @@
             "state": {
               "type": "graph",
               "state": {}
+=======
+        "id": "c041d17157035133",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "375e96c2a4a2c833",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FP/TSMR/2/NetworkServices/NetworkServices.md",
+                "mode": "source",
+                "source": false
+              }
+>>>>>>> 399f323f41ec26d14e82e01e6aea7a83e298ef01
             }
           }
         ]
@@ -39,6 +71,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "6cbb5427f47bf17a",
     "type": "split",
     "children": [
@@ -48,6 +81,17 @@
         "children": [
           {
             "id": "52f7b9987836adc8",
+=======
+    "id": "24544dd5ed20687f",
+    "type": "split",
+    "children": [
+      {
+        "id": "473e0a1cc817461d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe907e9571110112",
+>>>>>>> 399f323f41ec26d14e82e01e6aea7a83e298ef01
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -57,7 +101,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "b9ad300541160741",
+=======
+            "id": "da30ca51b542d95e",
+>>>>>>> 399f323f41ec26d14e82e01e6aea7a83e298ef01
             "type": "leaf",
             "state": {
               "type": "search",
@@ -72,7 +120,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "34635d7456c117d9",
+=======
+            "id": "e26f2f0bc341d443",
+>>>>>>> 399f323f41ec26d14e82e01e6aea7a83e298ef01
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,6 +138,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "3149a27e73b5a045",
     "type": "split",
     "children": [
@@ -95,6 +148,17 @@
         "children": [
           {
             "id": "24386d57ec66360a",
+=======
+    "id": "26e6a6b12359e3f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2d05f2e7c43cf49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da5615cec728c75e",
+>>>>>>> 399f323f41ec26d14e82e01e6aea7a83e298ef01
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -110,7 +174,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "f53523eea119e89c",
+=======
+            "id": "578c582203466acc",
+>>>>>>> 399f323f41ec26d14e82e01e6aea7a83e298ef01
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -121,7 +189,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "85cba5a5d28472f9",
+=======
+            "id": "eb17ce05502035c7",
+>>>>>>> 399f323f41ec26d14e82e01e6aea7a83e298ef01
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,18 +204,39 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "ca4caf20f57ef9c1",
+=======
+            "id": "92719f75fae7edf7",
+>>>>>>> 399f323f41ec26d14e82e01e6aea7a83e298ef01
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
+<<<<<<< HEAD
+=======
+          },
+          {
+            "id": "da5beae9c409f74d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+>>>>>>> 399f323f41ec26d14e82e01e6aea7a83e298ef01
           }
         ]
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 200,
+=======
+    "width": 300,
+>>>>>>> 399f323f41ec26d14e82e01e6aea7a83e298ef01
     "collapsed": true
   },
   "left-ribbon": {
@@ -154,6 +247,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+<<<<<<< HEAD
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
@@ -197,5 +291,34 @@
     "FP/TSMR/1/Networking/NetworkingModels/TCP-IP/IPAddresses/Subnetting/Subnetting.md",
     "FP/TSMR/1/Networking/NetworkingModels/TCP-IP/IPAddresses/Subnetting/SubnetMasks",
     "Untitled.canvas"
+=======
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "d83862be6b836ed8",
+  "lastOpenFiles": [
+    "FP/TSMR/2/NetworkServices/NetworkServices.md",
+    "FP/TSMR/2/NetworkServices/RemoteAccess/SSH/SSH.md",
+    "FP/TSMR/2/NetworkServices/RemoteAccess/RemoteAccess.md",
+    "FP/TSMR/2/NetworkServices/RemoteAccess/SSH/SSHKeys/SSHKeys.md",
+    "FP/TSMR/2/NetworkServices/RemoteAccess/SSH/SSHKeys",
+    "FP/TSMR/2/NetworkServices/RemoteAccess/telnet/telnet.md",
+    "FP/TSMR/2/NetworkServices/RemoteAccess/VNC/VNC.md",
+    "FP/TSMR/2/NetworkServices/RemoteAccess/VNC",
+    "FP/TSMR/2/NetworkServices/DNS/DNS.md",
+    "FP/TSMR/2/NetworkServices/DHCP/DHCP.md",
+    "FP/TSMR/2/NetworkServices/DNS/DomainNameLevels/DomainNameLevels.md",
+    "FP/TSMR/2/NetworkServices/DNS/DomainNameLevels/TopLevelDomains",
+    "FP/TSMR/2/NetworkServices/DNS/ServerSoftware",
+    "FP/TSMR/2/NetworkServices/DNS/DomainNameLevels",
+    "FP/TSMR/1/Networking/TCPModel",
+    "FP/TSMR/1/Networking/OSIModel.md",
+    "FP/TSMR/1/Networking/subnetting_0x0.md",
+    "FP/TSMR/1/Networking/OSIModel",
+    "FP/TSMR/1/Networking/TCP-IP"
+>>>>>>> 399f323f41ec26d14e82e01e6aea7a83e298ef01
   ]
 }

@@ -1,4 +1,10 @@
 [
+<<<<<<< HEAD
   "table-editor-obsidian",
   "obsidian-git"
+=======
+  "obsidian-citation-plugin",
+  "obsidian-git",
+  "darlal-switcher-plus"
+>>>>>>> 399f323f41ec26d14e82e01e6aea7a83e298ef01
 ]

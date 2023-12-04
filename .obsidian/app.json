@@ -1,5 +1,10 @@
 {
+<<<<<<< HEAD
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false
+=======
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+>>>>>>> 399f323f41ec26d14e82e01e6aea7a83e298ef01
 }
