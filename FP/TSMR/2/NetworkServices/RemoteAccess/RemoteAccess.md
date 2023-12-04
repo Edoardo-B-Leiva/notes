@@ -13,4 +13,5 @@ tags:
 [SSH](SSH/SSH.md)
 
 ---
-[VNC](VNC/VNC.md)
+[VNC](./VNC/VNC.md)
+[NX](./NX/NX.md)

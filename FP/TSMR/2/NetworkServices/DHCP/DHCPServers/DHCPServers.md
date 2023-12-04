@@ -1,10 +1,10 @@
 ---
 tags:
+  - DHCP
   - FP
-  - TSMR
-  - TSMR_2
-  - DNS
   - IT
   - Networking
   - NetworkServices
+  - TSMR
+  - TSMR_2
 ---
