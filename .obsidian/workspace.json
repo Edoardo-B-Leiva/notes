@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "fd2ee32b6c7ada87",
+    "type": "split",
+    "children": [
+      {
+        "id": "777b1573edc57ca5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d83862be6b836ed8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c041d17157035133",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "375e96c2a4a2c833",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FP/TSMR/2/NetworkServices/NetworkServices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24544dd5ed20687f",
+    "type": "split",
+    "children": [
+      {
+        "id": "473e0a1cc817461d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe907e9571110112",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da30ca51b542d95e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e26f2f0bc341d443",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "26e6a6b12359e3f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2d05f2e7c43cf49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da5615cec728c75e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "578c582203466acc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb17ce05502035c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "92719f75fae7edf7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "da5beae9c409f74d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "d83862be6b836ed8",
+  "lastOpenFiles": [
+    "FP/TSMR/2/NetworkServices/NetworkServices.md",
+    "FP/TSMR/2/NetworkServices/RemoteAccess/SSH/SSH.md",
+    "FP/TSMR/2/NetworkServices/RemoteAccess/RemoteAccess.md",
+    "FP/TSMR/2/NetworkServices/RemoteAccess/SSH/SSHKeys/SSHKeys.md",
+    "FP/TSMR/2/NetworkServices/RemoteAccess/SSH/SSHKeys",
+    "FP/TSMR/2/NetworkServices/RemoteAccess/telnet/telnet.md",
+    "FP/TSMR/2/NetworkServices/RemoteAccess/VNC/VNC.md",
+    "FP/TSMR/2/NetworkServices/RemoteAccess/VNC",
+    "FP/TSMR/2/NetworkServices/DNS/DNS.md",
+    "FP/TSMR/2/NetworkServices/DHCP/DHCP.md",
+    "FP/TSMR/2/NetworkServices/DNS/DomainNameLevels/DomainNameLevels.md",
+    "FP/TSMR/2/NetworkServices/DNS/DomainNameLevels/TopLevelDomains",
+    "FP/TSMR/2/NetworkServices/DNS/ServerSoftware",
+    "FP/TSMR/2/NetworkServices/DNS/DomainNameLevels",
+    "FP/TSMR/1/Networking/TCPModel",
+    "FP/TSMR/1/Networking/OSIModel.md",
+    "FP/TSMR/1/Networking/subnetting_0x0.md",
+    "FP/TSMR/1/Networking/OSIModel",
+    "FP/TSMR/1/Networking/TCP-IP"
+  ]
+}
