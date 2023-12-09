@@ -8,3 +8,9 @@ tags:
   - Networking
   - NetworkServices
 ---
+# DNS Levels
+- TLDs
+	- TLD types
+- 1st lev
+- 2nd
+- etc...

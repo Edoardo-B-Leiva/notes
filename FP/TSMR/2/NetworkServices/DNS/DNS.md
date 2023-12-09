@@ -8,7 +8,7 @@ tags:
   - TSMR
   - TSMR_2
 ---
-
+[DNSServers](DNSServers/DNSServers)
 [Edoardo Borgia Leiva](https://edoardo-b-leiva.github.io) (02/11/2023 Thu - x)
 # DNS
 **DNS** (_Domain Name Service_) is, as the name implies, a service which main purpose is to **provide an IP address corresponding to the given Domain Name**.

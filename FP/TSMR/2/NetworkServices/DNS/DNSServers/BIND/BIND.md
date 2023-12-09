@@ -8,6 +8,8 @@ tags:
   - TSMR
   - TSMR_2
   - ServerSoftware
+  - Linux
+  - LinuxSoftware
 ---
 # BIND
 BIND (Berkeley Internet Name Domain) **is a *Free as in Freedom* DNS Server software released by the Berkeley Software Distribution** (BSD for short) from other free software is produced like BSD Unix.
