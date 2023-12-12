@@ -3,8 +3,8 @@ Author: [Edoardo Borgia Leiva](https://edoardo-b-leiva.github.io)
 ## Units
 ### Colors
 - Hex colors
-  - #rgb(a): `#DEAD`
-  - #rrggbb(aa): `#BEEFACE`
+  -`#rgb(a) : #DEAD`
+  - `#rrggbb(aa): #BEEFACE`
 - rgba(red_channel, green_channel, blue_channel, alpha_channel): `rgba(255,0,234,100)`
 - Color names (red, green, blue, white, gray, etc.): `red`
 ### Measurements
@@ -15,14 +15,14 @@ Author: [Edoardo Borgia Leiva](https://edoardo-b-leiva.github.io)
   - em: `404em`
   - rem: `420rem`
 ## Positions
-- **position: <static/absolute/relative/fixed/float>**: Defines the way other position-related attributes work:
-  - **: static**: Position-related attributes will be ignored and position will be default.
+- `position: <static/absolute/relative/fixed/float>`: Defines the way other position-related attributes work:
+  - `static`: Position-related attributes will be ignored and position will be default.
   - **: absolute**: Position is based off its father element size.
   - **: relative**: Position attributes are based off other elements.
-  - **: fixed**: Position will reference viewport instead of HTML Document structure.
+  - **: fixed**: Position will reference the view port instead of HTML Document structure.
   - **: float**: 
-- **top: <size>**: Distance from top of father element.
-- **left: <size>**: Distance from left wall of father element.
+- **top: \<size\>**: Distance from top of father element.
+- **left: <size\>**: Distance from left wall of father element.
 ## Element spacings
 - **_Margins_**: Space between element's border and other element's own margin.
   - **margin**: defines margin spacing; one, two, and four values are supported.
@@ -35,8 +35,21 @@ Author: [Edoardo Borgia Leiva](https://edoardo-b-leiva.github.io)
     - **-top | -bottom | -left | -right**: Define the thickness of the correspondent side.
 - **_Paddings_**: Space between the element's content and it's border.
   - **padding**:
-    - **-top | -bottom | -left | -right**: Define the spacing of the correspondent side.
+	- **-top | -bottom | -left | -right**: Define the spacing of the correspondent side.
 ## Flex, Flexbox & Grid
 ## ULs, ILs & LIs
 ### UL: Unordered lists
-- **list-style-type: <disc/cirle/square/decimal/cjk-decimal/decimal-leading-zero/lower-roman/upper-roman/lower-greek/...>**: Styling for the bullet points.
+- `list-style-type: <disc/cirle/square/decimal/cjk-decimal/decimal-leading-zero/lower-roman/upper-roman/lower-greek/...>`: Styling for the bullet points.
+## Simple CSS selectors
+- `*`: Every single element
+- `.<classname>`: elements with given class
+- `#<id>`: elements with given id
+- `<elementname>`: all given elements
+- `<HTMLElement>.<classname>`: all given element with given class
+- `<something> <something>`
+- `<something> + <something>`
+- `something,something`
+- `something~something`
+- `.class .class`: Selects all elements with both _name1_ and _name2_ set within its class attribute
+- `.class.class`: Selects all elements with both _name1_ and _name2_ set within its class attribute
+- `something > something`: where the first element is the second's element parent
