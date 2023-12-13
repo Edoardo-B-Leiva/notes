@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "4e6e384104e5e462",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbf97be5dcf0b3f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8e7a468c5c92cd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FP/TSMR/2/NetworkServices/RemoteAccess/SSH/SSHServers/SSHd/SSHd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "dd49f05d3cfae5ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38d03f396247d3ec",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14fd37fc5023ae81",
+    "type": "split",
+    "children": [
+      {
+        "id": "a051915cea8ff90a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ca05bc54497fac7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e3d3e43337eefc2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "544ed43a0a7a15af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2691afd3aacd0297",
+    "type": "split",
+    "children": [
+      {
+        "id": "37c2c1f21aaa9899",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53c1b8278a833698",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb43acc8e25c35ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "daa3cf58f707d5a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "75ca864e61201bd1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "38d03f396247d3ec",
+  "lastOpenFiles": [
+    "FP/TSMR/2/NetworkServices/DNS/DNSServers/BIND/Configuration/named.conf.md",
+    "FP/TSMR/2/NetworkServices/RemoteAccess/SSH/SSHServers/SSHd/SSHd.md",
+    "FP/TSMR/2/NetworkServices/RemoteAccess/SSH/SSHClients/SSHClients.md",
+    "FP/TSMR/2/NetworkServices/RemoteAccess/SSH/SSHClients/Untitled",
+    "FP/TSMR/2/NetworkServices/RemoteAccess/SSH/SSHClients",
+    "FP/TSMR/2/NetworkServices/RemoteAccess/SSH/SSHServers/SSHServers.md",
+    "FP/TSMR/2/NetworkServices/RemoteAccess/SSH/SSHServers/SSHd"
+  ]
+}
